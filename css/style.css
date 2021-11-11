@@ -42,7 +42,8 @@ hr{
 }
 .pp{
   font-size:2.5rem;
-  font-family: cursive;
+font-family: Quicksand;
+    font-weight: bold;
 }
 
 p{
